@@ -4,5 +4,6 @@ if __name__ == "__main__":
     print(s1)
     s2=string.ascii_uppercase
     print(s2) 
+    print(s1+s2)
 
 
